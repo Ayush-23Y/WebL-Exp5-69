@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// Replace 'WebL-Exp5-69' with your repo name exactly
 export default defineConfig({
-  plugins: [react()],
+  base: '/WebL-Exp5-69/',
+  plugins: [react()]
 })
