@@ -2,7 +2,7 @@
   "name": "form-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Ayush-23Y.github.io/WebL-Exp5-69",
+  "homepage": "https://ayush-23y.github.io/WebL-Exp5-69/",
   "type": "module",
   "scripts": {
     "dev": "vite",
